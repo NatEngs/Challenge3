@@ -18,8 +18,8 @@ function generatePassword() {
   }
 
   //Confirm prompts of additional password criteria.
-  var upCase = confirm("Your password much include at least one capital letter.");
-  var lowCase = confirm("Your password must; contain at least one lowercase letter.");
+  var upCase = confirm("Your password must include at least one capital letter.");
+  var lowCase = confirm("Your password must contain at least one lowercase letter.");
   var numCase = confirm("Your password must contain at least one number.");
   var specialCase = confirm("Your password must contain at least one special character.")
 

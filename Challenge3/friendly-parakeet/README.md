@@ -11,7 +11,7 @@ Final prompt after entering "10" and clicking generate password.
 ![Alt text](image-1.png)
 
 Github link:
-
+https://github.com/NatEngs/Challenge3
 
 Live URL link:
 
